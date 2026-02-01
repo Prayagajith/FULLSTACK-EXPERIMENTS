@@ -42,7 +42,7 @@ Users can draw free-hand lines using the mouse and erase drawings using an erase
 - Building modular frontend experiments
 
 ---
-DEPLOYED LINK:- https://24bcc70012experiment2anchormain.netlify.app/
+DEPLOYED LINK:- https://24bcy70055-experiment-2.netlify.app/
 ----
 
 ##  Conclusion
